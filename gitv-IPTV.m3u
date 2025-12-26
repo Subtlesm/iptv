@@ -208,36 +208,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226369/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226370/index.m3u8
 #EXTINF:-1 tvg-id="G_XIANJIAOYU" tvg-name="西安教育" tvg-logo="https://epg.112114.xyz/logo/西安教育.png" group-title="本地频道",西安教育
 http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226371/index.m3u8
-#EXTINF:-1 tvg-id="G_XIANYANG" tvg-name="咸阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/咸阳新闻综合.png" group-title="其他频道",咸阳新闻综合
-http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226372/index.m3u8
-#EXTINF:-1 tvg-id="G_YANAN" tvg-name="延安新闻综合" tvg-logo="https://epg.112114.xyz/logo/延安新闻综合.png" group-title="其他频道",延安新闻综合
-http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226374/index.m3u8
-#EXTINF:-1 tvg-id="G_YANAN-2" tvg-name="延安公共频道" tvg-logo="https://epg.112114.xyz/logo/延安公共频道.png" group-title="其他频道",延安公共频道
-http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226375/index.m3u8
-#EXTINF:-1 tvg-id="G_WEINAN" tvg-name="渭南新闻综合" tvg-logo="https://epg.112114.xyz/logo/渭南新闻综合.png" group-title="其他频道",渭南新闻综合
-http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226376/index.m3u8
-#EXTINF:-1 tvg-id="G_YULIN" tvg-name="榆林一套" tvg-logo="https://epg.112114.xyz/logo/榆林一套.png" group-title="其他频道",榆林一套
-http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226377/index.m3u8
-#EXTINF:-1 tvg-id="G_SHANGLUO" tvg-name="商洛电视" tvg-logo="https://epg.112114.xyz/logo/商洛电视.png" group-title="其他频道",商洛电视
-http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226378/index.m3u8
-#EXTINF:-1 tvg-id="G_TONGCHUAN" tvg-name="铜川新闻综合" tvg-logo="https://epg.112114.xyz/logo/铜川新闻综合.png" group-title="其他频道",铜川新闻综合
-http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226379/index.m3u8
-#EXTINF:-1 tvg-id="G_TONGCHUAN-2" tvg-name="铜川文化娱乐" tvg-logo="https://epg.112114.xyz/logo/铜川文化娱乐.png" group-title="其他频道",铜川文化娱乐
-http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226380/index.m3u8
-#EXTINF:-1 tvg-id="G_BAOJI" tvg-name="宝鸡新闻综合" tvg-logo="https://epg.112114.xyz/logo/宝鸡新闻综合.png" group-title="其他频道",宝鸡新闻综合
-http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226383/index.m3u8
-#EXTINF:-1 tvg-id="G_ANKANG" tvg-name="安康一套" tvg-logo="https://epg.112114.xyz/logo/安康一套.png" group-title="其他频道",安康一套
-http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226385/index.m3u8
-#EXTINF:-1 tvg-id="G_NINGQIANG" tvg-name="宁强" tvg-logo="https://epg.112114.xyz/logo/宁强1.png" group-title="其他频道",宁强
-http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226390/index.m3u8
-#EXTINF:-1 tvg-id="G_ZHENBA" tvg-name="镇巴综合" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/镇巴综合.png" group-title="其他频道",镇巴综合
-http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226457/index.m3u8
 #EXTINF:-1 tvg-id="G_CAIFUTIANXIA" tvg-name="财富天下" tvg-logo="https://epg.112114.xyz/logo/财富天下.png" group-title="卫视频道",财富天下
 http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226350/index.m3u8
-#EXTINF:-1 tvg-id="G_HAOXIANG" tvg-name="好享购物" tvg-logo="https://epg.112114.xyz/logo/好享购物.png" group-title="其他频道",好享购物
-http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226018/index.m3u8
-#EXTINF:-1 tvg-id="G_YANGGUANGGOU" tvg-name="央广购物" tvg-logo="https://epg.112114.xyz/logo/央广购物.png" group-title="其他频道",央广购物
-http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226032/index.m3u8
 #EXTINF:-1 tvg-id="G_SANSHA" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视频道",三沙卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221227055/index.m3u8
 #EXTINF:-1 tvg-id="migu_4k" tvg-name="咪视界 4K" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪视界",咪视界 4K
@@ -307,4 +279,5 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-id="migu_33" tvg-name="咪视界 𝟛𝟛" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪视界",咪视界 𝟛𝟛
 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
+
 
