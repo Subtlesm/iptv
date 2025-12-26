@@ -196,15 +196,15 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226362/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226363/index.m3u8
 #EXTINF:-1 tvg-id="G_SHANXI-8-265" tvg-name="陕西西部电影" tvg-logo="https://epg.112114.xyz/logo/陕西西部电影.png" group-title="本地频道",陕西西部电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226364/index.m3u8
-#EXTINF:-1 tvg-id="G_XIAN-1" tvg-name="西安新闻综合" tvg-logo="https://epg.112114.xyz/logo/西安新闻综合.png" group-title="本地频道",西安新闻综合
+#EXTINF:-1 tvg-id="474" tvg-name="西安新闻综合" tvg-logo="https://epg.112114.xyz/logo/西安新闻综合.png" group-title="本地频道",西安新闻综合
 http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226366/index.m3u8
-#EXTINF:-1 tvg-id="G_XIAN-2" tvg-name="西安都市" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/西安都市.png" group-title="本地频道",西安都市
+#EXTINF:-1 tvg-id="475" tvg-name="西安都市" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/西安都市.png" group-title="本地频道",西安都市
 http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226367/index.m3u8
-#EXTINF:-1 tvg-id="G_XIAN-3" tvg-name="西安商务资讯" tvg-logo="https://epg.112114.xyz/logo/西安商务资讯.png" group-title="本地频道",西安商务资讯
+#EXTINF:-1 tvg-id="476" tvg-name="西安商务资讯" tvg-logo="https://epg.112114.xyz/logo/西安商务资讯.png" group-title="本地频道",西安商务资讯
 http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226368/index.m3u8
-#EXTINF:-1 tvg-id="G_XIAN-4" tvg-name="西安影视" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/西安影视.png" group-title="本地频道",西安影视
+#EXTINF:-1 tvg-id="477" tvg-name="西安影视" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/西安影视.png" group-title="本地频道",西安影视
 http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226369/index.m3u8
-#EXTINF:-1 tvg-id="G_XIANSILU" tvg-name="西安丝路" tvg-logo="https://epg.112114.xyz/logo/西安丝路频道.png" group-title="本地频道",西安丝路
+#EXTINF:-1 tvg-id="478" tvg-name="西安丝路" tvg-logo="https://epg.112114.xyz/logo/西安丝路频道.png" group-title="本地频道",西安丝路
 http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226370/index.m3u8
 #EXTINF:-1 tvg-id="G_XIANJIAOYU" tvg-name="西安教育" tvg-logo="https://epg.112114.xyz/logo/西安教育.png" group-title="本地频道",西安教育
 http://dbiptv.sn.chinamobile.com/PLTV/88888898/224/3221226371/index.m3u8
@@ -305,4 +305,5 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-id="migu_32" tvg-name="咪视界 𝟛𝟚" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪视界",咪视界 𝟛𝟚
 http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="migu_33" tvg-name="咪视界 𝟛𝟛" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪视界",咪视界 𝟛𝟛
+
 http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
