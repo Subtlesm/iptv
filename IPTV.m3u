@@ -279,12 +279,13 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-id="migu_33" tvg-name="咪视界 𝟛𝟛" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪视界",咪视界 𝟛𝟛
 http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Dongfang4k.png" group-title="卫视频道",东方卫视4k
-http://bp-livety4kbz.bestv.cn/live/dfws4k.m3u8
+https://bp-live4ktc.bestv.cn/live/dfws4k.m3u8
 #EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Dongfang4k.png" group-title="卫视频道",东方卫视4k
-http://bp-livety4kbz.bestv.cn/live/dfws4k_4k265p.m3u8
+http://bp-live4ktc.bestv.cn/live/dfws4k_4k265p.m3u8
 #EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Dongfang4k.png" group-title="卫视频道",东方卫视4k
 http://bp-livety4kbz.bestv.cn/264ts/dfws4k264.m3u8
 #EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Dongfang4k.png" group-title="卫视频道",东方卫视4k
 http://bp-livety4kbz.bestv.cn/1080p/dfws4k1080p264.m3u8
 #EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Dongfang4k.png" group-title="卫视频道",东方卫视4k8M
 http://bp-livety4kbz.bestv.cn/264ts/dfws4k264_4k264pts.m3u8
+
