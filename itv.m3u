@@ -9,7 +9,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000013682/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031102/index.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV5.png" group-title="央视频道",CCTV5
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000003000030177/index.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5 HEVC" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV5.png" group-title="央视频道",CCTV5 HEVC
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5 HEVC" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV5.png" group-title="央视频道",CCTV5 
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000025222/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV5Plus.png" group-title="央视频道",CCTV5+
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
@@ -195,7 +195,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 #EXTINF:-1  tvg-id="178" tvg-name="都市剧场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dsjc.png" group-title="数字付费",都市剧场
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
-#EXTINF:-1  tvg-id="195" tvg-name="东方影视 " tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai3.png" group-title="上海频道",东方影视 4M
+#EXTINF:-1  tvg-id="195" tvg-name="东方影视 " tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai3.png" group-title="上海频道",东方影视
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
 #EXTINF:-1  tvg-id="174" tvg-name="东方财经" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/东方财经.png" group-title="上海频道",东方财经
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
@@ -211,7 +211,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010001/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="185" tvg-name="金色学堂" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jsxt.png" group-title="数字付费",金色学堂
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000026105/index.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="168" tvg-name="金鹰卡通" tvg-logo="https://pic.erw.cc/epglogo/hunan/Hunan10.png" group-title="儿童频道",金鹰卡通
+#EXTINF:-1 tvg-id="168" tvg-name="金鹰卡通" tvg-logo="https://pic.erw.cc/epglogo/hunan/Hunan10.png" group-title="卫视频道",金鹰卡通
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="170" tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/五星体育.png" group-title="上海频道",五星体育
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
@@ -219,7 +219,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031112/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
 #EXTINF:-1  tvg-id="209" tvg-name="哈哈炫动" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hhxd.png" group-title="上海频道",哈哈炫动
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu_4k" tvg-name="咪视界 4K" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪视界",咪视界 4K
+#EXTINF:-1 tvg-id="migu_4k" tvg-name="咪视界 4K" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪视界",咪视界4K
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=1
 #EXTINF:-1 tvg-id="migu_1" tvg-name="咪视界 𝟙" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪视界",咪视界 𝟙
 http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=1
@@ -335,6 +335,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000026167/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000021734/index.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hmdy.png" group-title="NewTV",黑莓电影
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
+
 
 
 
