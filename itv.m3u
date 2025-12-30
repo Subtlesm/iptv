@@ -105,6 +105,8 @@ http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000011724/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="346" tvg-name="纯享4K" tvg-logo="https://pic.erw.cc/epglogo/shuzi/cx4k.png" group-title="数字付费",纯享4K
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="19" tvg-name="北京卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Beijing4K.png" group-title="卫视频道",北京卫视4K
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001022/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="19" tvg-name="北京卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Beijing.png" group-title="卫视频道",北京卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000021288/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="21" tvg-name="东方卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Dongfang4k.png" group-title="卫视频道",东方卫视4k
@@ -333,6 +335,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000026167/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000021734/index.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hmdy.png" group-title="NewTV",黑莓电影
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
+
 
 
 
