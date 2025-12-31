@@ -1,25 +1,26 @@
 #EXTM3U x-tvg-url="http://e.erw.cc/all.xml"
 
-#EXTINF:-1 tvg-id="1" group-title="央视频道" catchup="append" catchup-source="&playms=${start}000" catchup-days="7",CCTV1-HD
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="央视频道" catchup="append" catchup-source="&playms=${start}000" catchup-days="7",CCTV1
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="2" group-title="央视频道" catchup="append" catchup-source="&playms=${start}000" catchup-days="7",CCTV2-HD
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" group-title="央视频道" catchup="append" catchup-source="&playms=${start}000" catchup-days="7",CCTV2
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="3" group-title="央视频道" catchup="append" catchup-source="&playms=${start}000" catchup-days="7",CCTV3-HD
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" group-title="央视频道" catchup="append" catchup-source="&playms=${start}000" catchup-days="7",CCTV3
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="4" group-title="央视频道" catchup="append" catchup-source="&playms=${start}000" catchup-days="7",CCTV4-HD
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="央视频道" catchup="append" catchup-source="&playms=${start}000" catchup-days="7",CCTV4
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="5" group-title="体育频道" catchup="append" catchup-source="&playms=${start}000" catchup-days="7",CCTV5-HD
+#EXTINF:-1 tvg-id="5"  tvg-name="CCTV5" group-title="央视频道" catchup="append" catchup-source="&playms=${start}000" catchup-days="7",CCTV5
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="6" group-title="体育频道" catchup="append" catchup-source="&playms=${start}000" catchup-days="7",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="央视频道" catchup="append" catchup-source="&playms=${start}000" catchup-days="7",CCTV5+
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="7" group-title="央视频道" catchup="append" catchup-source="&playms=${start}000" catchup-days="7",CCTV6-HD
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" group-title="央视频道" catchup="append" catchup-source="&playms=${start}000" catchup-days="7",CCTV6
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="14" group-title="央视频道" catchup="append" catchup-source="&playms=${start}000" catchup-days="7",CCTV13-HD
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV7" group-title="央视频道" catchup="append" catchup-source="&playms=${start}000" catchup-days="7",CCTV13
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
