@@ -1,2 +1,2 @@
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道" catchup="custom" catchup-days="7" catchup-source="http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001068?virtualDomain=yinhe.tvod_hls.zte.com&programbegin={utc:YmdTHHis}Z&programend={utcend:YmdTHHis}Z"
+#EXTINF:-1 tvg-name="CCTV1" catchup="custom" catchup-days="7" catchup-source="http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001068?virtualDomain=yinhe.tvod_hls.zte.com&programbegin=${start}&programend=${end}"
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
