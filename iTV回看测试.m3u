@@ -1,0 +1,34 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+
+#EXTINF:-1 cup-days="7" catchup="append" catchup-source="&livemode=4&starttime=${(b)yyyyMMdd}T${(b)HHmmss}0Z&endtime=${(e)yyyyMMdd}T${(e)HHmmss}0Z" group-title="中央电视台" tvg-id="CCTV1",CCTV1 2M
+http://zteres.sn.chinamobile.com:6060/000000001000/reallive-hdcctv1/index.m3u8?channel-id=ystenlive&Contentid=reallive-hdcctv1&livemode=1&stbId=3
+#EXTINF:-1 cup-days="7" catchup="append" catchup-source="&livemode=4&starttime=${(b)yyyyMMdd}T${(b)HHmmss}0Z&endtime=${(e)yyyyMMdd}T${(e)HHmmss}0Z" group-title="中央电视台" tvg-id="CCTV1",CCTV1 4M
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000021973/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3
+#EXTINF:-1 cup-days="7" catchup="append" catchup-source="&livemode=4&starttime=${(b)yyyyMMdd}T${(b)HHmmss}0Z&endtime=${(e)yyyyMMdd}T${(e)HHmmss}0Z" group-title="中央电视台" tvg-id="CCTV1",CCTV1 5.5MHEVC
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3
+#EXTINF:-1 cup-days="7" catchup="append" catchup-source="&livemode=4&starttime=${(b)yyyyMMdd}T${(b)HHmmss}0Z&endtime=${(e)yyyyMMdd}T${(e)HHmmss}0Z" group-title="中央电视台" tvg-id="CCTV1",CCTV1 8M
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
+
+#EXTINF:-1 cup-days="7" catchup="append" catchup-source="&livemode=4&starttime=${(b)yyyyMMdd}T${(b)HHmmss}0Z&endtime=${(e)yyyyMMdd}T${(e)HHmmss}0Z" group-title="中央电视台" tvg-id="CCTV2",CCTV2 4M
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000012442/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=3
+#EXTINF:-1 cup-days="7" catchup="append" catchup-source="&livemode=4&starttime=${(b)yyyyMMdd}T${(b)HHmmss}0Z&endtime=${(e)yyyyMMdd}T${(e)HHmmss}0Z" group-title="中央电视台" tvg-id="CCTV2",CCTV2 5.5MHEVC
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=3
+#EXTINF:-1 cup-days="7" catchup="append" catchup-source="&livemode=4&starttime=${(b)yyyyMMdd}T${(b)HHmmss}0Z&endtime=${(e)yyyyMMdd}T${(e)HHmmss}0Z" group-title="中央电视台" tvg-id="CCTV2",CCTV2 8M
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000023315/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
+
+#EXTINF:-1 cup-days="7" catchup="append" catchup-source="&livemode=4&starttime=${(b)yyyyMMdd}T${(b)HHmmss}0Z&endtime=${(e)yyyyMMdd}T${(e)HHmmss}0Z" group-title="中央电视台" tvg-id="CCTV3",CCTV3 4M
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000011218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=3
+#EXTINF:-1 cup-days="7" catchup="append" catchup-source="&livemode=4&starttime=${(b)yyyyMMdd}T${(b)HHmmss}0Z&endtime=${(e)yyyyMMdd}T${(e)HHmmss}0Z" group-title="中央电视台" tvg-id="CCTV3",CCTV3 5.5MHEVC
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265003/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=3
+#EXTINF:-1 cup-days="7" catchup="append" catchup-source="&livemode=4&starttime=${(b)yyyyMMdd}T${(b)HHmmss}0Z&endtime=${(e)yyyyMMdd}T${(e)HHmmss}0Z" group-title="中央电视台" tvg-id="CCTV3",CCTV3 8M
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000013682/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=3
+
+#EXTINF:-1 cup-days="7" catchup="append" catchup-source="&livemode=4&starttime=${(b)yyyyMMdd}T${(b)HHmmss}0Z&endtime=${(e)yyyyMMdd}T${(e)HHmmss}0Z" group-title="中央电视台" tvg-id="CCTV4",CCTV4 4M
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000031664/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3
+#EXTINF:-1 cup-days="7" catchup="append" catchup-source="&livemode=4&starttime=${(b)yyyyMMdd}T${(b)HHmmss}0Z&endtime=${(e)yyyyMMdd}T${(e)HHmmss}0Z" group-title="中央电视台" tvg-id="CCTV4",CCTV4 5.5MHEVC
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=3
+
+#EXTINF:-1 cup-days="7" catchup="append" catchup-source="&livemode=4&starttime=${(b)yyyyMMdd}T${(b)HHmmss}0Z&endtime=${(e)yyyyMMdd}T${(e)HHmmss}0Z" group-title="中央电视台" tvg-id="CCTV1",CCTV1 8M (Wasu)
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000029752/index.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3
+#EXTINF:-1 cup-days="7" catchup="append" catchup-source="&livemode=4&starttime=${(b)yyyyMMdd}T${(b)HHmmss}0Z&endtime=${(e)yyyyMMdd}T${(e)HHmmss}0Z" group-title="中央电视台" tvg-id="CCTV3",CCTV3 8M (Wasu)
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000022313/index.m3u8?channel-id=wasusyt&Contentid=6000000001000022313&livemode=1&stbId=3
