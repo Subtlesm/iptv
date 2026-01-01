@@ -15,3 +15,5 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001015/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV5.png" group-title="央视频道" catchup="custom" catchup-days="7" catchup-source="http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.tvod_hls.zte.com&programbegin={utc:YmdTHHis+00}&programend={utcend:YmdTHHis+00}",CCTV-5 体育
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com 
 这个代码可以回看，但是有错误，我播放19点的回看节目，播放的是11点的节目，回看18点的节目，播放的是10点的节目，回看20点的节目，播放的是12点的节目，怎么回事？
+
+回看需添加时间偏移
