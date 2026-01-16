@@ -23,3 +23,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018602/index.m3u
 # 预期: 效果理论上等同于方案1，但测试 TiviMate 对参数拼接的处理能力。
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="测试-方案4(追加模式)" catchup="append" catchup-days="7" catchup-source="&livemode=4&stbId=3&starttime={utc:YmdHMS}.00Z&endtime={utcend:YmdHMS}.00Z",CCTV1 (方案4)
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="央视频道" catchup="custom" catchup-days="7" catchup-source="http://zteres.sn.chinamobile.com:6060/000000002000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=2&stbId=3&playseek={utc:YmdTHMS}.00Z-",CCTV1
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
