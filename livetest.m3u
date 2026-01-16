@@ -1,0 +1,25 @@
+#EXTM3U x-tvg-url="http://e.erw.cc/all.xml"
+
+# === 方案 1: 标准回看模式 (推荐首测) ===
+# 原理: 使用 livemode=4 且包含开始和结束时间。
+# 预期: 回看功能最稳定。如果服务器宽容度高，时移也能用；如果时移报错，说明服务器拒绝未来的结束时间。
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="测试-方案1(标准回看)" catchup="custom" catchup-days="7" catchup-source="http://zteres.sn.chinamobile.com:6060/000000002000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=4&stbId=3&starttime={utc:YmdHMS}.00Z&endtime={utcend:YmdHMS}.00Z",CCTV1 (方案1)
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
+
+# === 方案 2: 开放结束时间 (尝试解决时移报错) ===
+# 原理: 使用 livemode=4 但去掉了 &endtime 参数。
+# 预期: 试图欺骗服务器。如果是回看则从 starttime 播；如果是时移则一直播下去。兼容性最好，前提是服务器允许缺省参数。
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="测试-方案2(无结束时间)" catchup="custom" catchup-days="7" catchup-source="http://zteres.sn.chinamobile.com:6060/000000002000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=4&stbId=3&starttime={utc:YmdHMS}.00Z",CCTV1 (方案2)
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
+
+# === 方案 3: 强制时移模式 (牺牲长回看) ===
+# 原理: 使用 livemode=2 配合 playseek=...- 语法。
+# 预期: 直播拖动进度条（时移）极其丝滑，绝不报错。但可能无法回看昨天的节目（取决于服务器缓存深度）。
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="测试-方案3(强制时移)" catchup="custom" catchup-days="7" catchup-source="http://zteres.sn.chinamobile.com:6060/000000002000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=2&stbId=3&playseek={utc:YmdHMS}.00Z-",CCTV1 (方案3)
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
+
+# === 方案 4: Append 追加模式 (简洁写法) ===
+# 原理: 利用 TiviMate 的追加功能，代码更短。强制追加 livemode=4。
+# 预期: 效果理论上等同于方案1，但测试 TiviMate 对参数拼接的处理能力。
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="测试-方案4(追加模式)" catchup="append" catchup-days="7" catchup-source="&livemode=4&stbId=3&starttime={utc:YmdHMS}.00Z&endtime={utcend:YmdHMS}.00Z",CCTV1 (方案4)
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
