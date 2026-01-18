@@ -1,15 +1,12 @@
 #EXTM3U x-tvg-url="http://e.erw.cc/all.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="央视频道" catchup="append" catchup-days="7" catchup-source="http://zteres.sn.chinamobile.com:6060/000000002000/0/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=2&stbId=3&starttime={utc:YmdTHMS}.00Z",CCTV1
-http://zteres.sn.chinamobile.com:6060/000000001000/0/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="央视频道" catchup="append" catchup-days="7" catchup-correction="480" catchup-source="http://zteres.sn.chinamobile.com:6060/000000002000/0/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=2&stbId=3&starttime={utc:YmdTHMS}.00Z",CCTV1
 http://zteres.sn.chinamobile.com:6060/000000001000/0/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="央视频道" catchup="append" catchup-days="7" catchup-source="http://zteres.sn.chinamobile.com:6060/000000002000/0/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=2&stbId=3&starttime=${(b)yyyyMMdd}T${(b)HHmmss}.00Z",CCTV1
-http://zteres.sn.chinamobile.com:6060/000000001000/0/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="19" tvg-name="北京卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Beijing4K.png" group-title="卫视频道" catchup="append" catchup-days="7" catchup-source="http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001022/index.m3u8?virtualDomain=yinhe.tvod_hls.zte.com&programbegin={utc:YmdTHHis+00}&programend={utcend:YmdTHHis+00}",北京卫视4K
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001022/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+#EXTINF:-1 tvg-id="19" tvg-name="北京卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Beijing4K.png" group-title="卫视频道" catchup="append" catchup-days="7" catchup-source="http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001022/index.m3u8?virtualDomain=yinhe.tvod_hls.zte.com&programbegin={utc:YmdTHHis+00}",北京卫视4K
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001022/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTM3U x-tvg-url="http://e.erw.cc/all.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="央视频道" catchup="source" catchup-days="7" catchup-source="http://zteres.sn.chinamobile.com:6060/000000002000/0/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=2&stbId=3&starttime={local:YmdTHMS}.00Z",CCTV1
-http://zteres.sn.chinamobile.com:6060/000000001000/0/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="央视频道" catchup="source" catchup-days="7" catchup-source="http://zteres.sn.chinamobile.com:6060/000000002000/0/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=2&stbId=3&starttime={Y}{m}{d}T{H}{M}{S}.00Z",CCTV1
-http://zteres.sn.chinamobile.com:6060/000000001000/0/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="19" tvg-name="北京卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Beijing4K.png" group-title="卫视频道" catchup="append" catchup-days="7" catchup-source="http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001022/index.m3u8?virtualDomain=yinhe.tvod_hls.zte.com&programbegin={utc:YmdTHHis+00}",北京卫视4K
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001022/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
